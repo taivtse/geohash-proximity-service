@@ -17,3 +17,7 @@ password: <empty>
 ```shell
 curl --location --request GET 'http://localhost:8080/businesses/locations?latitude=10.774180595634656&longitude=106.70411351828957&radius=3000'
 ```
+
+### References
+https://www.youtube.com/watch?v=M4lR_Va97cQ
+https://www.movable-type.co.uk/scripts/geohash.html
