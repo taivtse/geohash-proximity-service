@@ -20,4 +20,5 @@ curl --location --request GET 'http://localhost:8080/businesses/locations?latitu
 
 ### References
 https://www.youtube.com/watch?v=M4lR_Va97cQ
+<br/>
 https://www.movable-type.co.uk/scripts/geohash.html
